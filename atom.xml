@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Sansui's blog</title>
+    <updated>2025-01-10T09:30:44.162Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Sansui</name>
+        <email>sansuilnm@gmail.com</email>
+        <uri>/about.ico</uri>
+    </author>
+    <link rel="self" href="/atom.xml"/>
+    <subtitle>记录学习和生活的个人博客</subtitle>
+    <icon>/favicon.ico</icon>
+    <rights>All rights reserved 2022, Sansui</rights>
+    <entry>
+        <title type="html"><![CDATA[mm]]></title>
+        <id>/memos?id=2025-10-01 16:04</id>
+        <link href="/memos"/>
+        <updated>2025-10-01T08:04:00.000Z</updated>
+        <category label="Diary"/>
+        <published>2025-10-01T08:04:00.000Z</published>
+    </entry>
+</feed>
