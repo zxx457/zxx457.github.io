@@ -1,10 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sansui's blog",
+    "title": "zxx457's blog",
     "feed_url": "/feed.json",
     "description": "记录学习和生活的个人博客",
     "author": {
-        "name": "Sansui",
+        "name": "zxx457",
         "url": "/about.ico"
     },
     "items": [
