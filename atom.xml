@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>zxx457's blog</title>
-    <updated>2025-01-10T10:01:21.674Z</updated>
+    <updated>2025-01-15T14:11:39.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>zxx457</name>
@@ -15,10 +15,10 @@
     <rights>All rights reserved 2022, zxx457</rights>
     <entry>
         <title type="html"><![CDATA[mm]]></title>
-        <id>/memos?id=2025-10-01 16:04</id>
+        <id>/memos?id=2025-01-12 22:04</id>
         <link href="/memos"/>
-        <updated>2025-10-01T08:04:00.000Z</updated>
+        <updated>2025-01-12T14:04:00.000Z</updated>
         <category label="Diary"/>
-        <published>2025-10-01T08:04:00.000Z</published>
+        <published>2025-01-12T14:04:00.000Z</published>
     </entry>
 </feed>
